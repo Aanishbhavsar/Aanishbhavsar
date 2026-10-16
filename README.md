@@ -46,23 +46,9 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TushuMore&theme=tokyo-night"/>
-
-</p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TushuMore&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
 
 ---
 
