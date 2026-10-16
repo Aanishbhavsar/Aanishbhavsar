@@ -77,7 +77,7 @@
 <p align="center">
 <a href="https://github.com/Aanishbhavsar"><img src="https://skillicons.dev/icons?i=github"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/aanish-bhavsar8311"><img src="https://www.linkedin.com/in/aanish-bhavsar8311/"/></a>
+<a href="https://linkedin.com/in/aanish-bhavsar8311"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 &nbsp;
 <a href="mailto:aanishbhavsar8311@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
