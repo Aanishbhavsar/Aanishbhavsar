@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Aanish Bhavsar
 
-### 🚀 Data Analyst | Full Stack Developer | React & Next.js
+### 🚀 Data Analyst | Full Stack Developer | Java & .net Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D062&center=true&vCenter=true&width=700&lines=Data+Analyst;Full+Stack+Developer;React+Developer;Always+Learning+New+Things"/>
 
@@ -68,9 +68,7 @@
 
 ## 🚀 Featured Projects
 
-- 📊 ChartIQ Dashboard
 - 🛒 E-Commerce Website
-- 📝 Notes App
 
 ---
 
@@ -79,9 +77,9 @@
 <p align="center">
 <a href="https://github.com/TushuMore"><img src="https://skillicons.dev/icons?i=github"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://www.linkedin.com/in/aanish-bhavsar8311/"/></a>
 &nbsp;
-<a href="mailto:YOURMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="mailto:aanishbhavsar8311@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 ---
