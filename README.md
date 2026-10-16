@@ -23,7 +23,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=Java,javascript,typescript,react,nodejs,express,mongodb,tailwind,git,github,vscode,bootstrap,postman" />
 </p>
 
 ---
@@ -75,9 +75,9 @@
 ## 🌐 Connect
 
 <p align="center">
-<a href="https://github.com/TushuMore"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://github.com/Aanishbhavsar"><img src="https://skillicons.dev/icons?i=github"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://www.linkedin.com/in/aanish-bhavsar8311/"/></a>
+<a href="https://linkedin.com/in/aanish-bhavsar8311"><img src="https://www.linkedin.com/in/aanish-bhavsar8311/"/></a>
 &nbsp;
 <a href="mailto:aanishbhavsar8311@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
