@@ -1,16 +1,94 @@
-## Hi there 👋
 
-<!--
-**Aanishbhavsar/Aanishbhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Aanish Bhavsar
 
-Here are some ideas to get you started:
+### 🚀 Data Analyst | Full Stack Developer | React & Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D062&center=true&vCenter=true&width=700&lines=Data+Analyst;Full+Stack+Developer;React+Developer;Always+Learning+New+Things"/>
+
+</div>
+
+---
+
+## 💫 About Me
+
+- 🎓 Engineering Graduate
+- 📊 Data Analyst
+- 💻 Full Stack Developer
+- ⚛️ React & Next.js Developer
+- 🌱 Currently learning AI & Data Analytics
+- 🎥 Tech Content Creator
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,figma,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TushuMore&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TushuMore&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TushuMore&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TushuMore&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TushuMore&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 📊 ChartIQ Dashboard
+- 🛒 E-Commerce Website
+- 📝 Notes App
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+<a href="https://github.com/TushuMore"><img src="https://skillicons.dev/icons?i=github"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+&nbsp;
+<a href="mailto:YOURMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Code • Analyze • Build • Repeat ⭐
+
+</div>
+
